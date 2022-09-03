@@ -1,0 +1,73 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.nAll
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+    font-size: 30px;
+    font-family: italic;    
+    color: bisque;
+}
+.nMain
+{
+    width: 800px;
+    height: 600px;
+    background-color: black;
+}
+.nHeader
+{
+    width: 800px;
+    height: 90px;
+    background-color: rgb(214, 51, 51);
+    margin-bottom: 10px;
+}
+.nNavigation
+{
+    width: 195px;
+    height: 395px;
+    background-color: rgb(73, 23, 54);
+    float: left;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+.nHI
+{
+    width: 595px;
+    height: 45px;
+    background-color: rgb(173, 102, 146);
+    float: left;
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+.nView
+{
+    width: 590px;
+    height: 290px;
+    background-color: rgb(209, 26, 81);
+    margin-left: 10px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    float: left;
+}
+.nFI
+{
+    width: 595px;
+    height: 45px;
+    background-color: rgb(173, 102, 146);
+    float: left;
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+.nFooter
+{
+    width: 800px;
+    height: 100px;
+    background-color: rgb(214, 51, 51);
+    margin-bottom: 10px;
+}
